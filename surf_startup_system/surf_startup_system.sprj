@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
-<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="surf_startup_system" platform="X:/vitis_2022/surf_test/export/surf_test/surf_test.xpfm" platformUID="xilinx:::0.0(custom)" sysConfig="surf_test" runtime="C/C++" rootFSLocation="" linuxImage="" sysroot="">
-  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.1001624327">
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="surf_startup_system" platform="../workspace/surf_test/export/surf_test/surf_test.xpfm" platformUID="xilinx:::0.0(custom)" sysConfig="surf_test" runtime="C/C++" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.979200438">
     <configBuildOptions xsi:type="systemproject:SystemOptions">
       <applications name="surf_startup" domainName="standalone_domain" domainPrettyName="standalone on psu_cortexa53_0" appBuildConfig="Debug"/>
       <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
@@ -10,7 +10,7 @@
       <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
     </lastBuildOptions>
   </configuration>
-  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.1035030661">
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.18715579">
     <configBuildOptions xsi:type="systemproject:SystemOptions">
       <applications name="surf_startup" domainName="standalone_domain" domainPrettyName="standalone on psu_cortexa53_0" appBuildConfig="Release"/>
       <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
