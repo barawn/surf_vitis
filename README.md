@@ -50,4 +50,3 @@ PATHS BEFORE CHECKING BACK IN.
 The key item to look for in the XML is the "platform" entry. It should
 point to "../workspace/surf_test/export/surf_test/surf_test.xpfm" instead
 of the absolute path.
-

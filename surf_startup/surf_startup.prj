@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ASCII"?>
-<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="surf_startup" location="X:/surf6_workspace5/surf_startup" platform="X:/surf6_workspace5/surf_test/export/surf_test/surf_test.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="surf_startup_system" sysConfig="surf_test" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="0508f58d6bd28b877d4f81fcb4b0f70b">
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="surf_startup" location="./surf_startup" platform="../workspace/surf_test/export/surf_test/surf_test.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="surf_startup_system" sysConfig="surf_test" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexa53_0" os="standalone" mssSignature="0508f58d6bd28b877d4f81fcb4b0f70b">
   <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1239149365">
     <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
     <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
